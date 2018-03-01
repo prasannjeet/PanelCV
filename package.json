@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/prasannjeet/prasannjeet.github.io#readme",
   "dependencies": {
-    "bootstrap": "^4.0.0"
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0"
   }
 }
