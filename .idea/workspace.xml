@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f772d4e-2bae-495d-a900-f9bbb967b11c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/_includes/blog.html" afterPath="$PROJECT_DIR$/_includes/blog.html" />
-      <change beforePath="$PROJECT_DIR$/images/blog/blog-1.jpg" afterPath="$PROJECT_DIR$/images/blog/blog-1.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/blog/blog-2.jpg" afterPath="$PROJECT_DIR$/images/blog/blog-2.jpg" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,9 +30,11 @@
       <file leaf-file-name="blog.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-80">
-              <caret line="461" column="93" lean-forward="false" selection-start-line="461" selection-start-column="93" selection-end-line="461" selection-end-column="93" />
-              <folding />
+            <state relative-caret-position="265">
+              <caret line="495" column="2" lean-forward="false" selection-start-line="495" selection-start-column="2" selection-end-line="511" selection-end-column="18" />
+              <folding>
+                <marker date="1519871514249" expanded="false" signature="24965:24988" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,6 +79,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,8 +108,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,7 +142,8 @@
       <option name="presentableId" value="Default" />
       <updated>1519847634230</updated>
       <workItem from="1519847635769" duration="2683000" />
-      <workItem from="1519854643948" duration="9512000" />
+      <workItem from="1519854643948" duration="9848000" />
+      <workItem from="1519871489925" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="updated config with basic details">
       <created>1519847879898</created>
@@ -206,16 +208,24 @@
       <option name="project" value="LOCAL" />
       <updated>1519862237921</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="second article update">
+      <created>1519871143977</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1519871143978</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12195000" />
+    <option name="totallyTimeSpent" value="12559000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48667377" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18656716" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -223,7 +233,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17833698" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -278,6 +288,24 @@
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7065">
+          <caret line="471" column="117" lean-forward="false" selection-start-line="471" selection-start-column="117" selection-end-line="471" selection-end-column="117" />
+          <folding>
+            <marker date="1519871514249" expanded="false" signature="24965:24988" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
@@ -287,7 +315,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14280">
           <caret line="952" column="63" lean-forward="false" selection-start-line="219" selection-start-column="11" selection-end-line="952" selection-end-column="63" />
-          <folding />
+          <folding>
+            <marker date="1519871514249" expanded="false" signature="24965:24988" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -309,9 +339,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80">
-          <caret line="461" column="93" lean-forward="false" selection-start-line="461" selection-start-column="93" selection-end-line="461" selection-end-column="93" />
-          <folding />
+        <state relative-caret-position="265">
+          <caret line="495" column="2" lean-forward="false" selection-start-line="495" selection-start-column="2" selection-end-line="511" selection-end-column="18" />
+          <folding>
+            <marker date="1519871514249" expanded="false" signature="24965:24988" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
