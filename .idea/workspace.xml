@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f772d4e-2bae-495d-a900-f9bbb967b11c" name="Default" comment="">
+    <list default="true" id="1f772d4e-2bae-495d-a900-f9bbb967b11c" name="Default" comment="Updated next semester&#10;updated job of research assistant&#10;Updated resume link">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/cv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,6 +17,7 @@
     <session id="-337763951">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -37,11 +35,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="190" />
+          <entry key="txt" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="190" />
+          <entry key="PLAIN_TEXT" value="79" />
         </counts>
       </usages-collector>
     </session>
@@ -287,7 +287,7 @@
       <workItem from="1519989567085" duration="2959000" />
       <workItem from="1520085624113" duration="17486000" />
       <workItem from="1520189153285" duration="64000" />
-      <workItem from="1538479239559" duration="1588000" />
+      <workItem from="1538479239559" duration="2326000" />
     </task>
     <task id="LOCAL-00001" summary="updated config with basic details">
       <created>1519847879898</created>
@@ -422,17 +422,23 @@
       <option name="project" value="LOCAL" />
       <updated>1520189183943</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Updated next semester&#10;updated job of research assistant&#10;Updated resume link">
+      <created>1538481099919</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1538481099919</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50728000" />
+    <option name="totallyTimeSpent" value="51466000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.122068234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.122068234" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -444,7 +450,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32932165" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2972103" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2972103" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32932165" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -473,7 +479,8 @@
     <MESSAGE value="end of day commit. integrated jekyll ruby and python in webstorm" />
     <MESSAGE value="all done for now" />
     <MESSAGE value="added the map image" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the map image" />
+    <MESSAGE value="Updated next semester&#10;updated job of research assistant&#10;Updated resume link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated next semester&#10;updated job of research assistant&#10;Updated resume link" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/structural.rnc">
